@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thinhnguyenuit
-- 👀 I’m interested in Python, DSA, AWS.
-- 🌱 I’m currently learning DSA, SQL, AWS.
+- 👀 I’m interested in Python.
 - 💞️ I’m looking to collaborate on Python project.
 - 📫 How to reach me: you can reach me via my email: dangthinhvh@gmail.com
 
